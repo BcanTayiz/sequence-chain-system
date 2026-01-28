@@ -1,2 +1,17 @@
-.csv
-.zip
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+
+# Compressed files
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+
+# Binary / large files
+*.bin
+*.dat
