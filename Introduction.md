@@ -49,7 +49,13 @@ We desing some rules for classes and from these classes, the states or objects c
 
 ## Simple Idea
 
-<p style="color:orange">Actually, I designed a rule similar to kmeans, which is an unsupervised learning method. However, my main motive was to design a sequence system and adaptive complex system agent.  </p>
+<p style="color:orange">Actually, I designed an algorithm similar to kmeans, which is an unsupervised learning method. However, my main motive was to design a sequence system and adaptive complex system agent.  </p>
+
+<p style="color:coral">This concept seem part of an cellular automata system. Therefore, the example and usage of cellular automata to machine learning and creating a code chunk to solve the pattern recognition comes to new to me. Therefore, I saw this idea unique. However it is a part of Cellular Automata Theory.  [3]</p>
+
+
+
+
 
 
 
@@ -58,3 +64,4 @@ We desing some rules for classes and from these classes, the states or objects c
 
 * https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf [1],
 * https://www.google.com/search?q=cellulat+automata&ie=UTF-8 [2]
+* https://plato.stanford.edu/entries/cellular-automata/#:~:text=Cellular%20automata%20(henceforth%3A%20CA),a%20variety%20of%20scientific%20fields.[3]
