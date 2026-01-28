@@ -51,17 +51,17 @@ We desing some rules for classes and from these classes, the states or objects c
 
 <p style="color:orange">Actually, I designed an algorithm similar to kmeans, which is an unsupervised learning method. However, my main motive was to design a sequence system and adaptive complex system agent.  </p>
 
-<p style="color:coral">This concept seem part of an cellular automata system. Therefore, the example and usage of cellular automata to machine learning and creating a code chunk to solve the pattern recognition comes to new to me. Therefore, I saw this idea unique. However it is a part of Cellular Automata Theory.  [3]</p>
-
-
-
-
-
+<p style="color:coral">This concept seem part of an cellular automata system. Therefore, the example and usage of cellular automata to machine learning and creating a code chunk to solve the pattern recognition comes to new to me. Therefore, I saw this idea unique. However it is a part of Cellular Automata Theory.  [2]</p>
 
 
 
 ## Resources
 
 * https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf [1],
-* https://www.google.com/search?q=cellulat+automata&ie=UTF-8 [2]
-* https://plato.stanford.edu/entries/cellular-automata/#:~:text=Cellular%20automata%20(henceforth%3A%20CA),a%20variety%20of%20scientific%20fields.[3]
+* https://plato.stanford.edu/entries/cellular-automata/#:~:text=Cellular%20automata%20(henceforth%3A%20CA),a%20variety%20of%20scientific%20fields.[2]
+* https://en.wikipedia.org/wiki/Leibniz%27s_notation [3],
+* https://en.wikipedia.org/wiki/Genetic_algorithm [4],
+* https://pmc.ncbi.nlm.nih.gov/articles/PMC7599983/ [5],
+* https://en.wikipedia.org/wiki/John_Henry_Holland[6],
+* https://plato.stanford.edu/entries/cellular-automata/#:~:text=Cellular%20automata%20(henceforth%3A%20CA),a%20variety%20of%20scientific%20fields. 7],
+* https://arxiv.org/abs/2505.13058[8]
